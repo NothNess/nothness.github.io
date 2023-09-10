@@ -6,23 +6,23 @@
     <description>Recent content on NothNess is Nobody</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 08 Sep 2023 11:57:07 +0800</lastBuildDate><atom:link href="https://nothness.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nothing</title>
-      <link>https://nothness.github.io/posts/nothing/</link>
-      <pubDate>Fri, 08 Sep 2023 11:57:07 +0800</pubDate>
-      
-      <guid>https://nothness.github.io/posts/nothing/</guid>
-      <description>正在更新中&amp;hellip;</description>
-    </item>
-    
+    <lastBuildDate>Wed, 06 Sep 2023 10:47:34 +0800</lastBuildDate><atom:link href="https://nothness.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommend</title>
       <link>https://nothness.github.io/recommend/</link>
       <pubDate>Fri, 08 Sep 2023 11:11:21 +0800</pubDate>
       
       <guid>https://nothness.github.io/recommend/</guid>
-      <description>本清单持续更新中&amp;hellip;&amp;hellip; 日本动漫 二十世纪70年代三大不朽杰作(或70年代三神作,均指漫画): 《怪医黑杰克》 《恶魔人》</description>
+      <description>本清单持续更新中&amp;hellip;&amp;hellip; 小说 三体(地球往事三部曲): 三体 三体II: 黑暗森林 三体III: 死神永生 艾萨克-艾西莫夫的基地</description>
+    </item>
+    
+    <item>
+      <title>在windows上部署安全学习环境(持续更新ing)</title>
+      <link>https://nothness.github.io/posts/%E5%9C%A8windows%E4%B8%8A%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Wed, 06 Sep 2023 10:47:34 +0800</pubDate>
+      
+      <guid>https://nothness.github.io/posts/%E5%9C%A8windows%E4%B8%8A%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E5%AE%89%E5%85%A8%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/</guid>
+      <description>Shell与终端 除开个别跨平台的shell, 以及git bash等shell, powershell 7 是windows下shell最好的选择. 注意powershe</description>
     </item>
     
     <item>
